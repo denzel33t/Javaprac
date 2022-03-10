@@ -1,6 +1,8 @@
 package com.qa.operators;
 
 public class Results {
+	
+	
 	public void examResults(int physics_score, int chemistry_score, int biology_score) {
 		System.out.println("Physics Score: " + physics_score + "\n");
 		System.out.println("Chemistry Score: " + chemistry_score + "\n");
