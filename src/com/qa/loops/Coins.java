@@ -12,9 +12,4 @@ public class Coins {
 		this.payment = payment;
 	}
 
-
-	public double changeCalc(double cost, double payment) {
-		while 
-	}
-	
 }
