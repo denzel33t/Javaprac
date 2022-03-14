@@ -6,7 +6,7 @@ import java.util.List;
 
 
 public class Words {
-	
+//	
 	public String[] wordCount(String string) {
 		String[] splitWord = string.split(" ");
 		System.out.println(splitWord.length);
