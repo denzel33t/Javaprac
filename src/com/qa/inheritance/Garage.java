@@ -30,7 +30,7 @@ public class Garage {
 		vehicleCollection.add(vehicle);
 	}
 	
-	public 
+	
 
 	
 }
